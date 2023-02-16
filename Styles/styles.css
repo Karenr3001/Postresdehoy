@@ -1,0 +1,46 @@
+.sec-image{
+    width: 80%;
+}
+.sec-image img{
+    width: 100%;
+    object-fit: cover;
+}
+
+i{
+    color: rgb(43, 226, 64);
+}
+
+nav ul{
+    margin: 20 20 20px;
+    display: flex;
+    padding: 20;
+}
+nav ul li{
+    margin: 0;
+    list-style: none;
+    background-color: greenyellow;
+    padding: 20px 45px 20px 45px;
+    margin: 0 40px 0 40px;
+}
+/*
+nav ul li a{
+    text-decoration: none;
+    padding: 12px;
+    border: 5px solid black;
+    margin-right: 40px;
+}*/
+.body-index{
+    background-image: url(../Fotos/panadería-del-garabato-modelo-de-las-tortas-fondo-linear-del-vintage-70785774.jpg);
+}
+
+.barra{
+    background-color: greenyellow
+}
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+text-align: center;
+
+}
